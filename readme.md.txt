@@ -1,3 +1,4 @@
 # Git course
 
-Este é um repositório de tete para aprender omo o git funciona
+Este é um repositório de teste para aprender como o git funciona.
+
